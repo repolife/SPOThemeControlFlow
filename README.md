@@ -5,7 +5,7 @@ Got to https://developer.microsoft.com/en-us/fabric#/styles/themegenerator
 
 Set your colors. Select PowerShell as your Output. 
 
-Replace value for $themepallet variable in SPOSiteThemeCF.ps1
+Replace value for $themepalette variable in SPOSiteThemeCF.ps1
    
 
     $themepalette = @{
