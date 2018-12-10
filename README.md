@@ -1,5 +1,5 @@
 # SPOThemeControlFlow
-Add, remove or add a SharePoint site theme. 
+Add, remove or view a SharePoint site theme on your tenant. 
 
 Got to https://developer.microsoft.com/en-us/fabric#/styles/themegenerator
 
